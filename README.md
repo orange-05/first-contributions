@@ -5,11 +5,11 @@
 ![Upstream Stars](https://img.shields.io/github/stars/firstcontributions/first-contributions?style=for-the-badge&label=Upstream%20Stars)
 ![Last Sync](https://img.shields.io/github/last-commit/orange-05/first-contributions?style=for-the-badge&label=Last%20Local%20Commit)
 
-> **🚀✨ Help beginners contribute to open source projects** — This is a fork of the legendary [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) guide.
+> **Help beginners contribute to open source projects** -- This is a fork of the legendary [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) guide.
 
 ---
 
-## ⚠️ **This is a Fork**
+## This is a Fork
 
 **Upstream Repository:** https://github.com/firstcontributions/first-contributions
 
@@ -22,7 +22,7 @@ This fork exists for:
 
 ---
 
-## 🌟 About the Project
+## About the Project
 
 **First Contributions** is a hands-on tutorial that walks newcomers through their first open source contribution. It simulates a real contribution workflow using a practice repository.
 
@@ -36,7 +36,7 @@ This fork exists for:
 
 ---
 
-## 🎯 Quick Start (Upstream Version)
+## Quick Start (Upstream Version)
 
 **Don't use this fork for the tutorial!** Go to the upstream:
 
@@ -46,7 +46,7 @@ This fork exists for:
 
 ---
 
-## 🔄 Keeping This Fork Updated
+## Keeping This Fork Updated
 
 ```bash
 # Add upstream remote (once)
@@ -65,7 +65,7 @@ git push origin main
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 **Contribute to upstream!** This fork is not the place for PRs.
 
@@ -75,13 +75,13 @@ git push origin main
 
 ---
 
-## 📄 License
+## License
 
-**MIT License** — Same as upstream. See [LICENSE](LICENSE).
+**MIT License** -- Same as upstream. See [LICENSE](LICENSE).
 
 ---
 
-## 👤 Fork Owner
+## Fork Owner
 
 **Karthikeyan K** (BCA Analytics)
 - GitHub: [@orange-05](https://github.com/orange-05)
@@ -89,4 +89,4 @@ git push origin main
 
 ---
 
-*Forked for learning — contribute upstream!* — Last synced July 2026
+*Forked for learning -- contribute upstream!* -- Last synced July 2026
