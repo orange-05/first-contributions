@@ -3,7 +3,6 @@
 ![Fork](https://img.shields.io/badge/Fork-of_firstcontributions/first--contributions-blue?style=for-the-badge)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 ![Upstream Stars](https://img.shields.io/github/stars/firstcontributions/first-contributions?style=for-the-badge&label=Upstream%20Stars)
-![Last Sync](https://img.shields.io/github/last-commit/orange-05/first-contributions?style=for-the-badge&label=Last%20Local%20Commit)
 
 > **Help beginners contribute to open source projects** -- This is a fork of the legendary [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) guide.
 
